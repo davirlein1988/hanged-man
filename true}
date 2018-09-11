@@ -1,0 +1,2 @@
+(Not running features.  To run features in autotest, set AUTOFEATURE=true.)
+loading autotest/rspec
